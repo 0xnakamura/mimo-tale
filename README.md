@@ -63,7 +63,7 @@ the Xiaomi MiMo V2.5 family in a single user flow:
 ## Quickstart
 
 ```bash
-git clone https://github.com/<you>/mimo-tale.git
+git clone https://github.com/0xnakamura/mimo-tale.git
 cd mimo-tale
 npm install
 cp .env.example .env.local

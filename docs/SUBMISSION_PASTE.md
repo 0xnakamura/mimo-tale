@@ -39,7 +39,7 @@ Click button: **`MiMo`**
 **Paste this block** (≤ 1 200 chars, ≥ 100 words):
 
 ```
-Project: mimo-tale -- github.com/<you>/mimo-tale (MIT)
+Project: mimo-tale -- github.com/0xnakamura/mimo-tale (MIT)
 
 Problem: AI story generators stop at "a wall of text". mimo-tale treats every chapter as a multimodal artefact -- prose, illustration, and narration generated together, with a real fork at the end the reader steers.
 
@@ -85,7 +85,7 @@ Upload these **5 files in this order** — quality > quantity:
 ## GITHUB PROJECT LINK OR LIVE DEMO URL
 
 ```
-https://github.com/<you>/mimo-tale
+https://github.com/0xnakamura/mimo-tale
 ```
 
 Optional second link if you deploy:

@@ -66,7 +66,7 @@ MiniMax, Other.
 ### 🟢 Primary block · `mimo-tale` (1046 chars / 157 words)
 
 ```
-I built mimo-tale (github.com/<you>/mimo-tale, MIT) on Windsurf using Cascade as the build agent and Xiaomi MiMo V2.5 as the runtime model. Problem: AI story generators stop at "a wall of text" — readers want a multimodal artefact, not a prose dump.
+I built mimo-tale (github.com/0xnakamura/mimo-tale, MIT) on Windsurf using Cascade as the build agent and Xiaomi MiMo V2.5 as the runtime model. Problem: AI story generators stop at "a wall of text" — readers want a multimodal artefact, not a prose dump.
 
 Logic flow — one SSE round-trip per chapter to /api/chapter, three agents under one OpenAI-compatible client:
 
@@ -82,7 +82,7 @@ Three pillars, one MiMo key, single baseURL swap on the OpenAI SDK. Mock mode is
 If the form's counter glitches or you want headroom, use this:
 
 ```
-I built mimo-tale (github.com/<you>/mimo-tale, MIT) on Windsurf using Cascade as the build agent and Xiaomi MiMo V2.5 as the runtime. Problem: AI story generators stop at "a wall of text" — readers want a multimodal artefact.
+I built mimo-tale (github.com/0xnakamura/mimo-tale, MIT) on Windsurf using Cascade as the build agent and Xiaomi MiMo V2.5 as the runtime. Problem: AI story generators stop at "a wall of text" — readers want a multimodal artefact.
 
 Logic flow — one SSE round-trip per chapter, three agents on one OpenAI-compatible MiMo client:
 
@@ -140,7 +140,7 @@ If a screenshot was taken in mock or fallback mode, **suffix the filename with `
 Paste **at least one**, ideally both:
 
 ```
-https://github.com/<you>/mimo-tale
+https://github.com/0xnakamura/mimo-tale
 ```
 
 ```
